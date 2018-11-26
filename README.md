@@ -1,1 +1,1 @@
-# coffeemipt.github.io
+#  [mipt.coffee](https://mipt.coffee)
